@@ -7,7 +7,7 @@ This project basically is just a test of FlexBoxes for a class assignment. The F
 
 Very easily! Fortunately there are two ways to do it.
 
-* You can run it from GitHub pages in the browser.
+* You can run it from GitHub pages in the [browser](https://glitterdone1.github.io/S7_GitHub_Collaborators/)
 * You may also run it by downloading it and opening it in a browser of your choice.
 
 ### *What makes FlexBoxes work?*
